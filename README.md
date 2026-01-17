@@ -26,12 +26,6 @@
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4fca93a3-592e-4fd4-9602-001ca2df8005" />
 
 
-
-
-## Скриншоты
-![Русская версия](screenshots/screenshot-ru.png)
-![Английская версия](screenshots/screenshot-en.png)
-
 ## Как запустить
 1. Клонируйте репозиторий:![Uploading image.png…]()
 
